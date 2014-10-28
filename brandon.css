@@ -34,8 +34,9 @@ h1, h2, h3 {
 footer {
     text-aligh: left;
     padding: 10px;
-    font-size: 33%;
-    line-height: 8px;
+    font-size: 66%;
+    line-height: 8px
+    color: #FF00BF;
 }
 
 #menulist {
