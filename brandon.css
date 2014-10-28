@@ -1,8 +1,10 @@
 /* Stylesheet v0.1 */
+<style>
 body {
     font: 88% ;
     margin: 26px;
     line-height: 26px;
+    color: #000000;
 }
 
 .container {
@@ -68,3 +70,4 @@ a {
 a:hover {
     color: #84c754;
 }
+</style>
