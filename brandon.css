@@ -1,7 +1,7 @@
 /* Stylesheet v0.1 */
 body {
-    font: 100% Verdana;
-    margin: 20px;
+    font: 88% ;
+    margin: 26px;
     line-height: 26px;
 }
 
@@ -29,6 +29,13 @@ body {
 
 h1, h2, h3 {
     color: #84c754;
+}
+
+footer {
+    text-aligh: left;
+    padding: 10px;
+    font-size: 33%;
+    line-height: 8px;
 }
 
 #menulist {
