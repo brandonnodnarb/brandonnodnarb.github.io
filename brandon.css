@@ -1,11 +1,11 @@
 /* Stylesheet v0.1 */
 <style>
 body {
+    background-color: #000000;
     font: 88% ;
     margin: 26px;
     padding: 10px;
     line-height: 26px;
-    background-color: #000000;
 }
 
 .container {
