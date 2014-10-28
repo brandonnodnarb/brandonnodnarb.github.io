@@ -8,26 +8,6 @@ body {
     line-height: 26px;
 }
 
-.container {
-    min-width: 900px;
-}
-
-.wrapper {
-    position: relative;
-    overflow: auto;
-}
-
-#sidebar {
-    border: 1px solid #d4d4d4;
-    padding-left: 10px;
-}
-
-#bottom {
-    text-align: center;
-    padding: 10px;
-    font-size: 70%;
-    line-height: 14px;
-}
 
 h1, h2, h3 {
     color: #84c754;
@@ -41,25 +21,6 @@ footer {
     color: #FF00BF;
 }
 
-#menulist {
-    padding: 0;
-    position: relative;
-    overflow: auto;
-}
-
-.menuitem {
-    width: 165px;
-    float: left;
-    color: #ffffff;
-    list-style-type: none;
-    margin: 4px;
-    padding: 2px;
-    text-align: center;
-    cursor: pointer;
-}
-
-.menuitem:hover {
-}
 
 a {
    display: block;
