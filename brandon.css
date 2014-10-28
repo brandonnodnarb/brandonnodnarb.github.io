@@ -3,6 +3,7 @@
 body {
     font: 88% ;
     margin: 26px;
+    padding: 10px;
     line-height: 26px;
     background-color: #000000;
 }
@@ -17,7 +18,6 @@ body {
 }
 
 #sidebar {
-    background-color: #000000;
     border: 1px solid #d4d4d4;
     padding-left: 10px;
 }
@@ -50,7 +50,6 @@ footer {
 .menuitem {
     width: 165px;
     float: left;
-    background-color: #000000;
     color: #ffffff;
     list-style-type: none;
     margin: 4px;
@@ -60,11 +59,10 @@ footer {
 }
 
 .menuitem:hover {
-    background-color: #999999;
 }
 
 a {
-    color: #000000;
+    color: #FF00FF;
 }
 
 a:hover {
