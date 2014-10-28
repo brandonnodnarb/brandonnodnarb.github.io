@@ -62,7 +62,7 @@ footer {
 }
 
 a {
-    color: #FF00FF;
+    color: inherit;
 }
 
 a:hover {
