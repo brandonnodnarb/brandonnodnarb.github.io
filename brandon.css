@@ -62,7 +62,9 @@ footer {
 }
 
 a {
-    color: inherit;
+   display: block;
+   width: 66px;
+   color: inherit;
 }
 
 a:hover {
