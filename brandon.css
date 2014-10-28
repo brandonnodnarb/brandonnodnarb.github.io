@@ -4,7 +4,7 @@ body {
     font: 88% ;
     margin: 26px;
     line-height: 26px;
-    color: #000000;
+    background-color: #000000;
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
 }
 
 #sidebar {
-    background-color: #f1f1f1;
+    background-color: #000000;
     border: 1px solid #d4d4d4;
     padding-left: 10px;
 }
