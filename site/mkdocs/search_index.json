@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "What up schnoogins?!?\n\n\nI'll be creating most of this content in the next couple weeks. Stay tuned for updates!", 
+            "title": "home"
+        }, 
+        {
+            "location": "/#what-up-schnoogins", 
+            "text": "I'll be creating most of this content in the next couple weeks. Stay tuned for updates!", 
+            "title": "What up schnoogins?!?"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "under construction", 
+            "title": "about"
+        }, 
+        {
+            "location": "/about/#under-construction", 
+            "text": "", 
+            "title": "under construction"
+        }, 
+        {
+            "location": "/projects/", 
+            "text": "previous projects\n\n\nthis page is under construction, but there will be a LOT of ontology work listed here.", 
+            "title": "projects"
+        }, 
+        {
+            "location": "/cv/", 
+            "text": "Brandon's CV\n\n\nbeing reformatted for markdown", 
+            "title": "cv"
+        }
+    ]
+}
