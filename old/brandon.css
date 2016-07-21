@@ -1,0 +1,42 @@
+/* Stylesheet v0.1 */
+<style>
+body {
+    background: #000000;
+    font: 88% ;
+    margin: 26px;
+    padding: 10px;
+    line-height: 26px;
+}
+
+
+h1, h2, h3 {
+    color: #84c754;
+}
+
+footer {
+    text-align: left;
+    font-size: 66%;
+    color: #FF00BF;
+}
+
+
+a {
+   color: inherit;
+}
+
+a:hover {
+    color: #84c754;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+</style>
