@@ -29,6 +29,11 @@
             "location": "/cv/", 
             "text": "Brandon's CV\n\n\nbeing reformatted for markdown and adding other crap that should have been on here a long ass time ago.", 
             "title": "cv"
+        }, 
+        {
+            "location": "/cv/#brandons-cv", 
+            "text": "being reformatted for markdown and adding other crap that should have been on here a long ass time ago.", 
+            "title": "Brandon's CV"
         }
     ]
 }
