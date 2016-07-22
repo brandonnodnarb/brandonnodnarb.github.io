@@ -1,11 +1,11 @@
 site_name: brandonnodnarb
 
-site_url: http://brandonnodnarb.github.io
-repo_url: https://github.com/brandonnodnarb/brandonnodnarb.github.io/site/
+site_url: http://brandonnodnarb.co.nz
+repo_url: https://github.com/brandonnodnarb/brandonnodnarb.github.io
 repo_name: github
 site_author: brandon whitehead
 
-site_description: the spinning dodecahedron
+site_description: brandon's spinning dodecahedron
 
 pages:
 - home: index.md
