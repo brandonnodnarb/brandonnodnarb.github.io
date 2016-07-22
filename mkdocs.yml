@@ -9,7 +9,6 @@ site_description: brandon's spinning dodecahedron
 
 pages:
 - home: index.md
-- about: about.md
 - projects: projects.md
 - cv: cv.md
 
