@@ -1,7 +1,7 @@
 ### current projects
 
-#### [awesome geoscience semantic models](http://www.geoscience-semantics.info)<br /><br />
-
+#### [awesome geoscience semantic models](http://www.geoscience-semantics.info)
+<br /><br />
 #### [basin ontology](https://github.com/brandonnodnarb/basin-ontology)
 #### [reservoir ontology](https://github.com/brandonnodnarb/reservoir-ontology)
 #### [seal ontology]()
