@@ -1,6 +1,6 @@
 ### education
 
-### experience (recent)
+### experience
 
 ### selected publications
 

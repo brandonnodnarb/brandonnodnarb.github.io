@@ -11,4 +11,5 @@
 
 
 ### previous projects
-#### modelling drawdown and annual fluctions of the Southern Ogallala (High Plains) aquifer
+#### GIS modelling and analysis efforts:
+* modelling drawdown and annual fluctions of the Southern Ogallala (High Plains) aquifer
