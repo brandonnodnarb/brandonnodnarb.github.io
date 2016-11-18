@@ -3,4 +3,4 @@ brandonnodnarb.github.io
 
 mines
 
-Just experimenting.  I will update when I get it sorted.
+Just experimenting with MKdocs.  I will update when I get it sorted.
