@@ -1,4 +1,6 @@
 ### education
+* UoA
+* MNSU
 
 ### experience
 
