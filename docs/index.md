@@ -1,3 +1,18 @@
-# What up schnoogins?!?
+### current projects
 
-I'll be creating most of this content in the next couple weeks. Stay tuned for updates!
+#### [awesome geoscience semantic models](http://www.geoscience-semantics.org)<br /><br />
+
+#### [basin ontology](https://github.com/brandonnodnarb/basin-ontology)
+
+#### [reservoir ontology](https://github.com/brandonnodnarb/reservoir-ontology)
+
+#### [seal ontology]()
+
+#### [source rock ontology]()<br /><br />
+
+#### [ToolMatch](https://github.com/ESIPFed/toolmatch-ontology)
+
+
+### previous projects
+#### GIS modelling and analysis efforts:
+* modelling drawdown and annual fluctions of the Southern Ogallala (High Plains) aquifer

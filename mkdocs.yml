@@ -1,15 +1,18 @@
-site_name: brandonnodnarb
+site_name: popokotea
 
-site_url: http://brandonnodnarb.co.nz
-repo_url: https://github.com/brandonnodnarb/brandonnodnarb.github.io
-repo_name: github
-site_author: brandon whitehead
+site_url: http://www.popokotea.org
+#repo_url: https://github.com/brandonnodnarb/brandonnodnarb.github.io
+#repo_name: github
+site_author: brandon
 
-site_description: brandon's spinning dodecahedron
+#site_description: brandon's spinning dodecahedron
 
 pages:
-- home: index.md
-- projects: projects.md
-- cv: cv.md
+- index.md
+#- projects: projects.md
+#- cv: cv.md
 
+#theme: cinder
+#theme: bootstrap
 theme: cyborg
+#theme_dir: 'mkdocs_docskimmer'
