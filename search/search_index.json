@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "current projects\n\n\nawesome geoscience semantic models\n\n\nbasin ontology\n\n\nreservoir ontology\n\n\nseal ontology\n\n\nsource rock ontology\n\n\nToolMatch\n\n\nprevious projects\n\n\nGIS modelling and analysis efforts:\n\n\n\n\nmodelling drawdown and annual fluctions of the Southern Ogallala (High Plains) aquifer", 
+            "text": "current projects\n\n\nawesome geoscience semantic models\n\n\n\n\nBuilding a 'Next Generation ^data^ Production System' for scientific paper abstracts\n\n\nOpen Soils Data Portal (OSDP)\n\n\nOntologies for Pests and Biocontrols\n\n\nless current projects\n\n\nbasin ontology\n\n\nreservoir ontology\n\n\nseal ontology\n\n\nsource rock ontology\n\n\nToolMatch\n\n\nGIS modelling and analysis efforts:\n\n\n\n\nmodelling drawdown and annual fluctions of the Southern Ogallala (High Plains) aquifer", 
             "title": "Home"
         }, 
         {
@@ -14,6 +14,26 @@
             "location": "/#awesome-geoscience-semantic-models", 
             "text": "", 
             "title": "awesome geoscience semantic models"
+        }, 
+        {
+            "location": "/#building-a-next-generation-data-production-system-for-scientific-paper-abstracts", 
+            "text": "", 
+            "title": "Building a 'Next Generation ^data^ Production System' for scientific paper abstracts"
+        }, 
+        {
+            "location": "/#open-soils-data-portal-osdp", 
+            "text": "", 
+            "title": "Open Soils Data Portal (OSDP)"
+        }, 
+        {
+            "location": "/#ontologies-for-pests-and-biocontrols", 
+            "text": "", 
+            "title": "Ontologies for Pests and Biocontrols"
+        }, 
+        {
+            "location": "/#less-current-projects", 
+            "text": "", 
+            "title": "less current projects"
         }, 
         {
             "location": "/#basin-ontology", 
@@ -39,11 +59,6 @@
             "location": "/#toolmatch", 
             "text": "", 
             "title": "ToolMatch"
-        }, 
-        {
-            "location": "/#previous-projects", 
-            "text": "", 
-            "title": "previous projects"
         }, 
         {
             "location": "/#gis-modelling-and-analysis-efforts", 
