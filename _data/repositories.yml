@@ -5,6 +5,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - ESIPFed/sweet
+  - brandonnodnarb/SoilVoc
   - ktoddbrown/SoilDRaH
   - brandonnodnarb/GCMD-E
+  - ESIPFed/sweet
