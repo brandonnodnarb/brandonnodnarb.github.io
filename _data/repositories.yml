@@ -1,11 +1,9 @@
 github_users:
   - brandonnodnarb
-  - semantic-nomad
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-#  - brandonnodnarb/SoilVoc
   - ktoddbrown/SoilDRaH
   - brandonnodnarb/GCMD-E
   - ESIPFed/sweet
