@@ -85,7 +85,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: the spinning dodecahedron # blog_name will be displayed in your blog page
-blog_description: a random emprace
+blog_description: random thoughts
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -113,7 +113,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -262,7 +262,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Whitehead]
-  first_name: [Brandon, P.]
+  first_name: [Brandon]
 
   style: apa
   locale: en

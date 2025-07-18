@@ -29,4 +29,5 @@ latest_posts:
 
 I am a Senior Researcher in Environmental Data Science within the [Manaaki Whenua -- Landcare Research](https://www.landcareresearch.co.nz/) group at the newly minted [Bioeconomy Science Institute](https://www.bioeconomyscience.co.nz/) in Aotearoa New Zealand. My research involves building vocabularies for data interoperability as well as richer semantic models intending to reflect aspects of domain knowledge. I am passionate about capturing and applying rich Earth and environmental domain models for machine aided reasoning and discovery, and feel oddly compelled to increase the utility, and usage, of the [SWEET ontology](http://sweetontology.net).
 
+
 This site is a work in progress.
