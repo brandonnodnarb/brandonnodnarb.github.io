@@ -2,7 +2,7 @@ github_users:
   - brandonnodnarb
   - semantic-nomad
 
-repo_description_lines_max: 3
+repo_description_lines_max: 2
 
 github_repos:
   - ktoddbrown/SoilDRaH
